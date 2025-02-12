@@ -43,8 +43,8 @@ Playground supports running PHP code in Blueprints using the [`runPHP` step](b
 
 ```json
 {
-  "step": "runPHP",
-  "code": "<?php require_once('wordpress/wp-load.php'); OTHER_CODE ?>"
+	"step": "runPHP",
+	"code": "<?php require_once('wordpress/wp-load.php'); OTHER_CODE ?>"
 }
 ```
 

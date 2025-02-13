@@ -8,7 +8,7 @@ id: introduction
 
 :::info Vous cherchez le site officiel du Playground ?
 
-Le site de WordPress Playground a déménagé sur[wordpress.org/playground/](https://wordpress.org/playground/). Le site sur lequel vous vous trouvez actuellement héberge la documentation.
+Le site de WordPress Playground a déménagé sur [wordpress.org/playground/](https://wordpress.org/playground/). Le site sur lequel vous vous trouvez actuellement héberge la documentation.
 
 :::
 
@@ -83,8 +83,7 @@ WordPress Playground est un logiciel libre publié selon les termes de la licenc
 
 <br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Le code est une poésie." /></p>
 
-{::comment}
-Traduit par [Francois Thibaud](https://profiles.wordpress.org/francoist/)
-Relu par [Béryl de La Grandière](https://profiles.wordpress.org/beryldlg/)
-Dernière mise à jour : 12 février 2025
-{:/comment}
+---
+*Traduit par [Francois Thibaud](https://profiles.wordpress.org/francoist/)*
+*Relu par [Béryl de La Grandière](https://profiles.wordpress.org/beryldlg/)*
+*Dernière mise à jour : 13 février 2025*

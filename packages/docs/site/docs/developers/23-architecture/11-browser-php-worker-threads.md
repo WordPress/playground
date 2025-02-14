@@ -31,6 +31,6 @@ await phpClient.run({ code: `<?php echo "Hello from the thread!";` });
 
 ### Controlling web workers
 
-Exchanging messages is the only way to control web workers. The main application has no access to functions or variables inside of a web workeer. It can only send and receive messages using `worker.postMessage` and `worker.onmessage = function(msg) { }`.
+Exchanging messages is the only way to control web workers. The main application has no access to functions or variables inside of a web worker. It can only send and receive messages using `worker.postMessage` and `worker.onmessage = function(msg) { }`.
 
 This can be tedious, which is why Playground provides a convenient [consumeAPI](/api/web/function/consumeAPI) function that abstracts the message exchange and exposes specific functions from the web worker. This is why we can call `phpClient.run` in the example above.
